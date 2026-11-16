@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AILab.Core.Tests/AILab.Core.Tests.csproj" />
+  <Project Path="AILab.Core/AILab.Core.csproj" />
+  <Project Path="AILab.Desktop/AILab.Desktop.csproj" />
+</Solution>
